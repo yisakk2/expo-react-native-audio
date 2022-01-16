@@ -5,12 +5,12 @@
 
 
 ### 화면 PREVIEW  
-![Screenshot_1642333072](https://user-images.githubusercontent.com/55653709/149659091-0115bc0d-0148-4bfe-a3a8-ff86121e9395.png)
+<img src = "https://user-images.githubusercontent.com/55653709/149659091-0115bc0d-0148-4bfe-a3a8-ff86121e9395.png" width="30%" height="30%">
 
-![Screenshot_1642333641](https://user-images.githubusercontent.com/55653709/149659087-30246d87-2ca9-4a5d-9eb1-51e7c4875daf.png)
+<img src = "https://user-images.githubusercontent.com/55653709/149659087-30246d87-2ca9-4a5d-9eb1-51e7c4875daf.png" width="30%" height="30%">
 
-![Screenshot_1642333614](https://user-images.githubusercontent.com/55653709/149659082-2d9d5bc4-04ed-4add-963d-744111c52572.png)
+<img src = "https://user-images.githubusercontent.com/55653709/149659082-2d9d5bc4-04ed-4add-963d-744111c52572.png" width="30%" height="30%">
 
-![Screenshot_1642333068](https://user-images.githubusercontent.com/55653709/149659076-8819535e-f00d-4502-ad4e-73e8912de999.png)
+<img src = "https://user-images.githubusercontent.com/55653709/149659076-8819535e-f00d-4502-ad4e-73e8912de999.png" width="30%" height="30%">
 
-![Screenshot_1642333062](https://user-images.githubusercontent.com/55653709/149659062-58fb3e69-7de9-4ad1-81b4-ec42d84ffcb8.png)
+<img src = "https://user-images.githubusercontent.com/55653709/149659062-58fb3e69-7de9-4ad1-81b4-ec42d84ffcb8.png" width="30%" height="30%">
