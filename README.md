@@ -12,3 +12,11 @@
   <img src = "https://user-images.githubusercontent.com/55653709/149659076-8819535e-f00d-4502-ad4e-73e8912de999.png" width="30%" height="30%">
   <img src = "https://user-images.githubusercontent.com/55653709/149659062-58fb3e69-7de9-4ad1-81b4-ec42d84ffcb8.png" width="30%" height="30%">
 </p>
+
+
+#### 사용된 기술
+Development environment: Expo
+Framework : React Native
+DataBase : AsyncStorage
+Login : None
+Library : React Navigation, Expo av, Expo media library... etc
