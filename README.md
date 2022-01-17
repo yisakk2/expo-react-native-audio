@@ -15,8 +15,10 @@
 
 
 #### 사용된 기술
+₩₩₩
 Development environment: Expo
 Framework : React Native
 DataBase : AsyncStorage
 Login : None
 Library : React Navigation, Expo av, Expo media library... etc
+₩₩₩
