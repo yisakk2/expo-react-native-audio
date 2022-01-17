@@ -17,8 +17,8 @@
 
 #### 사용된 기술
 ------------
-> Development environment: Expo
-> Framework : React Native
-> DataBase : AsyncStorage
-> Login : None
-> Library : React Navigation, Expo av, Expo media library... etc
+> 1. Development environment: Expo
+> 2. Framework : React Native
+> 3. DataBase : AsyncStorage
+> 4. Login : None
+> 5. Library : React Navigation, Expo av, Expo media library... etc
