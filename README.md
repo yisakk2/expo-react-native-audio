@@ -5,6 +5,7 @@
 
 
 ### 화면 PREVIEW 
+------------
 <p float="center">
   <img src = "https://user-images.githubusercontent.com/55653709/149659091-0115bc0d-0148-4bfe-a3a8-ff86121e9395.png" width="30%" height="30%">
   <img src = "https://user-images.githubusercontent.com/55653709/149659087-30246d87-2ca9-4a5d-9eb1-51e7c4875daf.png" width="30%" height="30%">
@@ -15,10 +16,9 @@
 
 
 #### 사용된 기술
-```
-Development environment: Expo
-Framework : React Native
-DataBase : AsyncStorage
-Login : None
-Library : React Navigation, Expo av, Expo media library... etc
-```
+------------
+> Development environment: Expo
+> Framework : React Native
+> DataBase : AsyncStorage
+> Login : None
+> Library : React Navigation, Expo av, Expo media library... etc
